@@ -9,6 +9,6 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
 	/* code */
-	cout << "Hello World \n"; // print Hello World
+	cout << "Hello World \n"; // print "Hello World" and make a tabulator
 	return 0;
 }
